@@ -10,3 +10,5 @@ ISC 5935
 * In the past, I used SourceTree for my projects, but this is the first time I'm learning about using Git in the command-line.
 
 * This line was added natively as a pert of the text file. The next one would have been added through a `commit`.
+
+* This line was added from a `commit`.
